@@ -1,6 +1,6 @@
 var Tutor_StartPage=0;
 var Tutor_MinPage=0;
-var Tutor_MaxPage=6;
+var Tutor_MaxPage=7;
 var TimerCount=0;
 
 function left_hover(tog){
