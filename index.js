@@ -1,6 +1,6 @@
 var Tutor_StartPage=0;
 var Tutor_MinPage=0;
-var Tutor_MaxPage=7;
+var Tutor_MaxPage=6;
 var TimerCount=0;
 
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
